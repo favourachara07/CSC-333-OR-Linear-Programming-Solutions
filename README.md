@@ -14,8 +14,8 @@ This repository stores solutions to the Linear Programming (LP) problems given i
 *Repository Contents*
 
 - *Hand-Solved Solutions*: Scanned PDFs or images of the graphical solutions showing constraints, feasible regions, and optimal solutions.
-- *Python Code*: Scripts written in Python (e.g., (link unavailable)) that use libraries like matplotlib, numpy, and scipy (or pulp) to solve the LP problems graphically.
-- *(link unavailable)*: This file provides an overview of the repository, the steps involved in solving the problems, and instructions for running the Python code.
+- *Python Code*: Scripts written in Python that use libraries like matplotlib, numpy, and scipy (or pulp) to solve the LP problems graphically.
+- *README.md*: This file provides an overview of the repository, the steps involved in solving the problems, and instructions for running the Python code.
 - *Results*: Outputs from the Python scripts, including plots showing the feasible regions and optimal points.
 
 *Getting Started*
@@ -28,17 +28,17 @@ This repository stores solutions to the Linear Programming (LP) problems given i
 
 *Installation*
 
-1. Clone this repository: `git clone (link unavailable)
+1. Clone this repository: `git clone https://github.com/Eblazecode/CSC333-OR-Linear-Programming-Solutions.git
 2. Install required libraries: `pip install matplotlib numpy scipy pulp`
 
 *Running the Python Code*
 
 1. Navigate to the Python script directory.
-2. Run the script in the terminal or use Jupyter Notebook: `python (link unavailable)`
+2. Run the script in the terminal or use Jupyter Notebook
 
 *Viewing Results*
 
-The script will display plots for each LP problem, showing constraints, the feasible region, corner points, and the optimal solution. Refer to the `results/` directory for saved plots and output files.
+The (graph.ipynb)script will display plots for each LP problem, showing constraints, the feasible region, corner points, and the optimal solution. 
 
 *Methodology*
 
